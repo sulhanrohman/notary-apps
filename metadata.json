@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Multi-Tenant Backend",
+  "description": "A robust multi-tenant SaaS application schema with PostgreSQL and Prisma, featuring task management, subscriptions, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
